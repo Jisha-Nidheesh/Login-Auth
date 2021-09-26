@@ -2,7 +2,7 @@ function validateUser()
 {
 var username=document.getElementById("username").value;
 var password=document.getElementById("password").value;
-if((username=="jithin"&& password=="user")||(username=="admin"&& password=="newton"))
+if((username=="jisha"&& password=="user")||(username=="admin"&& password=="newton"))
 {
     alert("login succesfully");
     //return false;
